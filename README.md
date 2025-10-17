@@ -1,5 +1,6 @@
-## Hi there 👋
-
+<div align="center">
+  <h2>Hi there 👋</h2>
+</div>
 <!--
 **MaoYugit/MaoYugit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img src="dist/github-contribution-grid-snake.svg" alt="snake animation">
+  <img src="dist/github-contribution-grid-snake-dark.svg" alt="snake animation">
 </div>
