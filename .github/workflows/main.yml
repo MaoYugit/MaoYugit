@@ -33,10 +33,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       # 将生成的文件推送到仓库
-      - name: Push generated file to the repo
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add .
-          git commit -m "Generate snake animation"
-          git push
+      - name: Push generated file
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+            commit_message: "Generate snake animation"
