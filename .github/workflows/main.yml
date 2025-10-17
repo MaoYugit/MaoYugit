@@ -28,7 +28,9 @@ jobs:
           # 你的GitHub用户名
           github_user_name: ${{ github.repository_owner }}
           # 生成的SVG文件路径和名称
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       # 将生成的文件推送到仓库
       - name: Push generated file to the repo
