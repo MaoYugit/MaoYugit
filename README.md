@@ -1,6 +1,7 @@
 <div align="center">
-  <h2>Hi there 👋🌱</h2>
+  <h2>Hi there 👋</h2>
 </div>
+
 <!--
 **MaoYugit/MaoYugit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <div align="center">
-  <img src="dist/github-contribution-grid-snake-dark.svg" alt="snake animation">
+  <img src="https://raw.githubusercontent.com/MaoYugit/MaoYugit/main/dist/github-contribution-grid-snake-dark.svg" alt="snake animation">
 </div>
